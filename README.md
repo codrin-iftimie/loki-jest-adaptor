@@ -1,0 +1,1 @@
+# loki-jest-adaptor
